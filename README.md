@@ -2,7 +2,7 @@
 # ANGULAR: Landing page en Angular 17
 
 Este repositorio tiene una app web tipo landing page para poder poner en práctica los nuevos features que trae ANGULAR 17.
-Ver landing(https://landing-angular-17.netlify.app/)
+[Ver landing](https://landing-angular-17.netlify.app/)
 
 ## Uso
 
